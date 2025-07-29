@@ -1,0 +1,142 @@
+Subject,Difficulty,Type,Question,Option 1,Option 2,Option 3,Option 4,Correct Answer
+English,Easy,Vocabulary,What is the opposite of 'Hot' ?,Cold,Warm,Cool,Frozen,Cold
+English,Medium,Vocabulary,What is the antonym of 'Difficult' ?,Easy,Hard,Tricky,Complicated,Easy
+English,Hard,Grammar,"Choose the correct word : ""I have never ______ that movie.""",see,saw,seen,seeing,seen
+Maths,Easy,Arithmetic,What is 5 + 3 ?,6,7,8,9,8
+Maths,Medium,Algebra,What is the value of x if 2x + 5 = 11 ?,1,3,5,6,3
+Maths,Hard,Calculus,What is the integral of x ^ 2 ?,x ^ 3 / 3,2x,2x ^ 3 / 3,x ^ 2 + 1,x ^ 3 / 3
+Maths,Easy,Arithmetic,What is the square of 12 ?,122,124,144,146,144
+Maths,Medium,Algebra,Solve for y : 3y - 7 = 11.,2,4,6,7,6
+Maths,Hard,Trigonometry,What is the derivative of sin(x) ?,cos(x),tan(x),sec(x),sin(x),cos(x)
+History,Easy,Modern,Who was the founder of Pakistan ?,Mahatma Gandhi,Allama Iqbal,Liaquat Ali Khan,Quaid - e - Azam,Quaid - e - Azam
+History,Medium,Modern,In which year did Pakistan gain independence ?,1945,1946,1947,1948,1947
+History,Hard,Modern,Who was the first Governor - General of Pakistan ?,Liaquat Ali Khan,Ayub Khan,Quaid - e - Azam,Zulfiqar Bhutto,Quaid - e - Azam
+History,Easy,Modern,Who was the first Prime Minister of Pakistan ?,Zulfiqar Bhutto,Liaquat Ali Khan,Benazir Bhutto,Ayub Khan,Liaquat Ali Khan
+History,Medium,Modern,When was the Lahore Resolution passed ?,1939,1940,1941,1942,1940
+History,Hard,Modern,Who led the Salt March in British India ?,Mahatma Gandhi,Jawaharlal Nehru,Subhash Chandra Bose,Sardar Patel,Mahatma Gandhi
+General Knowledge,Easy,Geography,What is the capital of France ?,Berlin,Madrid,Paris,Rome,Paris
+General Knowledge,Medium,Geography,Which ocean is the largest ?,Atlantic,Indian,Arctic,Pacific,Pacific
+General Knowledge,Hard,Geography,Which is the tallest mountain in the world ?,K2,Kilimanjaro,Everest,Denali,Everest
+General Knowledge,Easy,Animals,What is the national animal of Pakistan ?,Lion,Tiger,Markhor,Eagle,Markhor
+General Knowledge,Medium,Geography,What is the capital city of Australia ?,Sydney,Melbourne,Canberra,Brisbane,Canberra
+General Knowledge,Hard,Astronomy,Which planet is known as the Morning Star ?,Mars,Venus,Jupiter,Saturn,Venus
+Programming,Easy,Concepts,Which language is primarily used for web development ?,Python,C,HTML,Java,HTML
+Programming,Medium,Control Flow,What will this code output ? int x = 5; cout << x * x;,"""5""","""10""","""25""","""30""","""25"""
+Programming,Medium,Concepts,Which of these is not a programming language ?,Python,HTML,Java,C,HTML
+Programming,Hard,Syntax,Find the error : int main() { cout << 'Hello'; },No error,Missing semicolon,Missing return 0;,Incorrect brackets,Missing semicolon
+English,Easy,Grammar,"Identify the noun : ""The cat sat on the mat.""",cat,sat,mat,the,cat
+English,Medium,Vocabulary,Choose the correct synonym for 'Happy' :,Sad,Angry,Joyful,Bored,Joyful
+English,Hard,Grammar,"Identify the grammatical error : ""He don't know the answer.""",do,don't,know,the,don't
+English,Easy,Spelling,Choose the correct spelling :,accomodate,accommodate,acommodate,accomodait,accommodate
+English,Medium,Vocabulary,What is the antonym of 'Brave' ?,Fearless,Cowardly,Timid,Bold,Cowardly
+English,Hard,Grammar,"Correct the sentence : ""The boy goed to school.""",went,goes,go,will go,went
+English,Easy,Grammar,What is a noun?,Person,Action,Place,Thing,Thing
+English,Medium,Vocabulary,Opposite of 'Happy'?,Sad,Mad,Angry,Bored,Sad
+English,Hard,Spelling,Correct: 'reciept' or 'receipt'?,reciept,receipt,receit,recieve,receipt
+Maths,Easy,Arithmetic,What is 7-2?,4,5,6,7,5
+Maths,Medium,Algebra,Solve: 2x=8,2,4,6,8,4
+Maths,Hard,Geometry,Sides of a triangle?,2,3,4,5,3
+History,Easy,Modern,WW2 end year?,1944,1945,1946,1947,1945
+History,Medium,Ancient,Roman Empire ruler?,Caesar,Cleopatra,Hannibal,Augustus,Caesar
+History,Hard,Medieval,Black Death cause?,War,Plague,Famine,Fire,Plague
+General Knowledge,Easy,Geography,Africa's tallest peak?,Kilimanjaro,Everest,Fuji,Matterhorn,Kilimanjaro
+General Knowledge,Medium,Science,Blood type?,A,B,AB,O,All of the above
+General Knowledge,Hard,Literature,Shakespeare's play?,Hamlet,Romeo,Macbeth,Othello,All of the above
+Programming,Easy,Concepts,HTML for?,Web,Apps,Games,Databases,Web
+Programming,Medium,Concepts,Loop repeats?,Code,Data,Program,Output,Code
+Programming,Hard,Syntax,Error in: 'int x = 5;',Missing semicolon,Missing variable,Wrong operator,No error,No error
+English,Easy,Grammar,Plural of 'mouse'?,Mouses,Mice,Mouseses,Mouseses,Mice
+English,Medium,Vocabulary,Synonym of 'Good'?,Bad,Evil,Excellent,Nice,Excellent
+English,Hard,Grammar,Correct: 'He go' or 'He goes'?,He go,He goes,He goed,He goed,He goes
+Maths,Easy,Arithmetic,What is 10 ÷ 2?,3,4,5,6,5
+Maths,Medium,Algebra,Solve: x + 3 = 7,2,3,4,5,4
+,,,,,,,,
+Maths,Hard,Geometry,Area of square (side 5)?,15,20,25,30,25
+History,Easy,Modern,US first president?,Washington,Lincoln,Jefferson,Adams,Washington
+History,Medium,Ancient,Egyptian pyramids?,Khufu,Tutankhamun,Cleopatra,Ramses,Khufu
+History,Hard,Medieval,Crusades about?,Trade,Religion,Exploration,Science,Religion
+General Knowledge,Easy,Geography,Earth's largest continent?,Africa,Asia,North America,Europe,Asia
+General Knowledge,Medium,Science,Water boils at?,100°C,212°F,32°C,0°C,100°C
+General Knowledge,Hard,Literature,Mona Lisa artist?,Van Gogh,Michelangelo,Da Vinci,Picasso,Da Vinci
+Programming,Easy,Concepts,Variable stores?,Data,Code,Program,Output,Data
+Programming,Medium,Concepts,Function does?,Reuses code,Creates data,Stops program,Prints output,Reuses code
+Programming,Hard,Syntax,Error in: 'if (x > 5)',Missing semicolon,Missing condition,Wrong operator,No error,No error
+English,Easy,Grammar,Adjective describes?,Noun,Verb,Adverb,Pronoun,Noun
+English,Medium,Vocabulary,Opposite of 'Hot'?,Cold,Warm,Cool,Frozen,Cold
+English,Hard,Grammar,Correct: 'I is' or 'I am'?,I is,I am,I are,I been,I am
+Maths,Easy,Arithmetic,What is 9 x 3?,24,27,30,33,27
+Maths,Medium,Algebra,Solve: 5y = 20,2,4,5,6,4
+Maths,Hard,Geometry,Circumference of circle?,Diameter x ?,Radius x 2,Radius x ?,Diameter x 2,Diameter x ?
+History,Easy,Modern,WW1 start year?,1914,1918,1939,1945,1914
+History,Medium,Ancient,Greek philosopher?,Plato,Socrates,Aristotle,All of the above,All of the above
+History,Hard,Medieval,Renaissance period?,14th-17th century,10th-13th century,12th-15th century,15th-18th century,15th-18th century
+General Knowledge,Easy,Geography,Biggest ocean?,Atlantic,Indian,Arctic,Pacific,Pacific
+General Knowledge,Medium,Science,DNA carries?,Genes,Cells,Proteins,Enzymes,Genes
+General Knowledge,Hard,Literature,"Author of ""Hamlet""?",Shakespeare,Dickens,Austen,Bronte,Shakespeare
+Programming,Easy,Concepts,Algorithm is?,A program,A plan,A language,A bug,A plan
+Programming,Medium,Concepts,Array stores?,Single value,Multiple values,Functions,Objects,Multiple values
+Programming,Hard,Syntax,Error in: 'for (i = 0; i < 10; i++)',Missing semicolon,Missing condition,Wrong variable,No error,No error
+English,Easy,Grammar,Verb shows?,Action,Noun,Adjective,Adverb,Action
+English,Medium,Vocabulary,Synonym of 'Small'?,Big,Large,Huge,Tiny,Tiny
+English,Hard,Grammar,Correct: 'Me went' or 'I went'?,Me went,I went,I goed,I goed,I went
+Maths,Easy,Arithmetic,What is 12 ÷ 4?,2,3,4,5,3
+Maths,Medium,Algebra,Solve: y - 5 = 2,3,5,7,9,7
+Maths,Hard,Geometry,Pythagorean theorem?,a+b=c,a-b=c,a²+b²=c²,a²/b²=c²,a²+b²=c²
+History,Easy,Modern,US independence year?,1776,1789,1812,1861,1776
+History,Medium,Ancient,Roman Empire end?,476 AD,500 AD,600 AD,700 AD,476 AD
+History,Hard,Medieval,Black Death impact?,Population decline,Economic growth,Religious revival,Scientific advancement,Population decline
+General Knowledge,Easy,Geography,Earth's shape?,Flat,Round,Square,Triangle,Round
+General Knowledge,Medium,Science,Light travels as?,Waves,Particles,Both,Neither,Both
+General Knowledge,Hard,Literature,"Author of ""Pride and Prejudice""?",Austen,Bronte,Dickens,Shelley,Austen
+Programming,Easy,Concepts,Computer uses?,Binary,Decimal,Octal,Hexadecimal,Binary
+Programming,Medium,Concepts,Variable types?,Integer,String,Float,All,All
+Programming,Hard,Syntax,Error in: 'while (true)',Missing semicolon,Missing condition,Wrong operator,No error,No error
+English,Easy,Grammar,Plural of 'child'?,Childs,Childen,Children,Childrens,Children
+English,Medium,Vocabulary,Opposite of 'Fast'?,Slow,Quick,Rapid,Speedy,Slow
+English,Hard,Grammar,Correct: 'They is' or 'They are'?,They is,They are,They be,They been,They are
+Maths,Easy,Arithmetic,What is 15 + 5?,15,20,25,30,20
+Maths,Medium,Algebra,Solve: 4z = 16,2,4,6,8,4
+English,Easy,Vocabulary,What is the synonym of 'Fast'?,Quick,Slow,Steady,Delayed,Quick
+English,Medium,Vocabulary,Identify the antonym of 'Bright'?.,Dim,Light,Clear,Vivid,Dim
+English,Hard,Grammar,"Choose the grammatically correct option: ""She ___ done her homework."",has,have,will,do,has",,,,,
+Maths,Easy,Arithmetic,What is 6 × 3?,15,18,20,21,18
+Maths,Medium,Algebra,What is the value of 2x + 3 = 7?,1,2,3,4,2
+Maths,Hard,Calculus,Find the derivative of x^3.,2x^2,3x^2,x^3,x^2,3x^2
+History,Easy,Modern,Who was the first President of the United States?,Abraham Lincoln,George Washington,John Adams,Thomas Jefferson,George Washington
+History,Medium,Modern,When did World War II end?,1942,1945,1948,1950,1945
+History,Hard,Modern,Who signed the Emancipation Proclamation?,Theodore Roosevelt,Woodrow Wilson,Abraham Lincoln,James Monroe,Abraham Lincoln
+General Knowledge,Easy,Geography,What is the currency of Japan?,Dollar,Yen,Euro,Pound,Yen
+General Knowledge,Medium,Geography,What is the largest desert in the world?,Sahara,Gobi,Antarctic,Atacama,Antarctic
+General Knowledge,Hard,Geography,Which is the tallest waterfall in the world?,Angel Falls,Iguazu Falls,Victoria Falls,Norway Falls,Angel Falls
+Programming,Easy,Concepts,What does HTML stand for?,HyperText Markup Language,HyperText Mock Language,HyperTool Markup Language,HyperTest Machine Language,HTML
+Programming,Medium,Concepts,What is the output of: int x = 3; cout << x * 2;?,6,9,12,15,6
+Programming,Hard,Concepts,Which of these is not a programming paradigm?,Object-Oriented,Functional,Procedural,Theoretical,Theoretical
+English,Easy,Vocabulary,What is the synonym of 'Beautiful'?,Pretty,Ugly,Smart,Boring,Pretty
+English,Medium,Grammar,"Identify the error: ""He do not know."",do,does,did,no error,does",,,,,
+English,Hard,Vocabulary,Choose the word closest in meaning to 'Magnificent'?.,Ordinary,Stunning,Simple,Basic,Stunning
+Maths,Easy,Arithmetic,What is 7 + 5?,11,12,13,14,12
+Maths,Medium,Geometry,How many sides does a hexagon have?,4,5,6,8,6
+Maths,Hard,Trigonometry,"What is the value of sin(90°)?,0,1,-1,0.5,1",,,,,
+History,Easy,Modern,Who discovered America?,Christopher Columbus,Marco Polo,James Cook,Neil Armstrong,Christopher Columbus
+History,Medium,Modern,When did the French Revolution begin?,1789,1799,1804,1815,1789
+History,Hard,Modern,Who was the first Roman Emperor?,Caesar,Augustus,Nero,Constantine,Augustus
+General Knowledge,Easy,Science,"What is H2O?,Oxygen,Hydrogen,Water,Carbon Dioxide,Water",,,,,
+General Knowledge,Medium,Science,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,Mars
+General Knowledge,Hard,Science,"Which element has the atomic number 79?,Silver,Gold,Copper,Iron,Gold",,,,,
+Programming,Easy,Syntax,"What does cout do in C++?,Print,Scan,Assign,Calculate,Print",,,,,
+Programming,Medium,Syntax,"What does the code int y = 5; cout << y + 3; output?,3,5,8,9,8",,,,,
+Programming,Hard,Syntax,"What is the correct way to declare a float in C++?,float x = 3.5;,int x = 3.5;,float x == 3.5;,double x = 3.5;,float x = 3.5;",,,,,
+English,Easy,Grammar,"Identify the article in: ""A cat sat on the mat."",A,Cat,Sat,Mat,A",,,,,
+English,Medium,Vocabulary,What is the synonym of 'Happy'?,Sad,Joyful,Angry,"Bored,Joyful",
+English,Hard,Vocabulary,What is the antonym of 'Honest'?,Sincere,Liar,Deceitful,Truthful,Deceitful
+Maths,Easy,Arithmetic,"What is 10 ÷ 2?,4,5,6,7,5",,,,,
+Maths,Medium,Algebra,"If x + 2 = 5, what is x?,1,2,3,4,3",,,,,
+Maths,Hard,Calculus,"What is the integral of 3x?,x^2,x^2/3,3x^2,x^3,x^2/3",,,,,
+History,Easy,Modern,"Who was the first Prime Minister of India?,Mahatma Gandhi,Jawaharlal Nehru,Subhas Chandra Bose,Indira Gandhi,Jawaharlal Nehru",,,,,
+History,Medium,Modern,"What year did the Berlin Wall fall?,1987,1988,1989,1990,1989",,,,,
+History,Hard,Modern,"Who led the March on Washington?,Martin Luther King Jr.,Rosa Parks,Malcolm X,Barack Obama,Martin Luther King Jr.",,,,,
+General Knowledge,Easy,Geography,"What is the capital of Canada?,Toronto,Ottawa,Montreal,Vancouver,Ottawa",,,,,
+General Knowledge,Medium,Geography,"What is the longest river in the world?,Amazon,Nile,Yangtze,Mississippi,Nile",,,,,
+General Knowledge,Hard,Astronomy,"What is the brightest star in the night sky?,Sirius,Betelgeuse,Polaris,Alpha Centauri,Sirius",,,,,
+Programming,Easy,Concepts,"Which of these is a loop in C++?,while,define,void,int,while",,,,,
+Programming,Hard,Concepts,"What is the correct syntax for a for loop?,for(x = 0; x < 10; x++),while(x = 0; x < 10),loop(x < 10),if(x < 10),for(x = 0; x < 10; x++)",,,,,
