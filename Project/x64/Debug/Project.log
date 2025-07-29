@@ -1,7 +1,0 @@
-﻿  Project.cpp
-E:\Study\Programming\C++\Project\Project\Project.cpp(370,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Study\Programming\C++\Project\Project\Project.cpp(375,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Study\Programming\C++\Project\Project\Project.cpp(396,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Project.vcxproj -> E:\Study\Programming\C++\Project\x64\Debug\Project.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
